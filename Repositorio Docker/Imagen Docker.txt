@@ -1,0 +1,1 @@
+docker run -p 8888:8888 -v "C:\Users\90042738\OneDrive - Electricaribe S.A\Documentos\Data Science\DS4A\Repositorio Docker":/home/jovyan/work jupyter/scipy-notebook:17aba6048f44
